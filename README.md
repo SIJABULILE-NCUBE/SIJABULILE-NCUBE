@@ -46,8 +46,11 @@ Currently studying through **CodeSpace Academy**, where I’m mastering front-en
 🎓 **Qualification in Financial Markets** — *University of Johannesburg*  
 📜 **Regulatory Certificate (RE5)** — *Moonstone*  
 📜 **National Credit Act Licence (NCA card)** — *Expede* 
+
 🎓 **Qualification in Forensic & Investigative Auditing** — *UNISA* 
+
 🎓 **Qualification in Banking Services Advice** — *UNISA* 
+
 💻 **Software Development Bootcamp (in progress)** — *CodeSpace Academy*
 
 ---

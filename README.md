@@ -3,9 +3,12 @@
 💻 **From Credit Scores to Code Lines | Aspiring Software Developer with a Banker’s Mindset**
 
 
+![200](https://github.com/user-attachments/assets/2a378de0-b38a-4640-8101-8106a88bc968)
+
+
 ---
 
-### 🌟 About Me  ![giphy](https://github.com/user-attachments/assets/3a62dfa2-e32b-4792-8525-6c5f17294fa7)
+### 🌟 About Me 
 
 I’m a **Credit Specialist ** transitioning into the world of **Software Development**.  
 With a strong background in **financial markets**, **forensic and investigative auditing**, and **credit risk management**,  

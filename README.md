@@ -3,7 +3,7 @@
 💻 **From Credit Scores to Code Lines | Aspiring Software Developer with a Banker’s Mindset**
 
 
-                                                               ![200](https://github.com/user-attachments/assets/2a378de0-b38a-4640-8101-8106a88bc968)
+   ![200](https://github.com/user-attachments/assets/2a378de0-b38a-4640-8101-8106a88bc968)
 
 
 ---

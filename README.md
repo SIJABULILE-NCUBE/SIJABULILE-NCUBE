@@ -55,7 +55,7 @@ Currently studying through **CodeSpace Academy**, where I’m mastering front-en
 
 🎓 **Qualification in Forensic & Investigative Auditing** — *UNISA* 
 
-🎓 **Qualification in Banking Services Advice** — *UNISA* 
+🎓 **Qualification in Banking Services Advice** — *Milpark Education* 
 
 💻 **Software Development Bootcamp (in progress)** — *CodeSpace Academy*
 

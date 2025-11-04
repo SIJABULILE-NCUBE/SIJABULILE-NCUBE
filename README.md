@@ -63,13 +63,15 @@ Currently studying through **CodeSpace Academy**, where I’m mastering front-en
 
 ### 🌐 Let's Connect  
 📫 **Email:** [s.mabhena@gmail.com]  
+
 🔗 **LinkedIn:**LinkedIn:** [linkedin.com/in/sijabulilemn](https://linkedin.com/in/sijabulilemn) 
+
 💻 **GitHub Portfolio:** [github.com/SIJABULILE-NCUBE](https://github.com/SIJABULILE-NCUBE) 
 
 ---
 
 ### ⚡ Fun Fact  
-I’m a proud mom of four daughters 💕 and passionate about inspiring young girls to see **technology and finance** as powerful tools for shaping their futures.
+🌱 I find joy in connecting finance and tech — whether analyzing credit trends or designing a responsive web page, I love seeing logic and creativity work together.
 
 ---
 

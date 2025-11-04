@@ -5,7 +5,8 @@
 
 ---
 
-### 🌟 About Me  
+### 🌟 About Me  ![giphy](https://github.com/user-attachments/assets/3a62dfa2-e32b-4792-8525-6c5f17294fa7)
+
 I’m a **Credit Specialist ** transitioning into the world of **Software Development**.  
 With a strong background in **financial markets**, **forensic and investigative auditing**, and **credit risk management**,  
 I’m passionate about building digital solutions that bridge the gap between **finance and technology**.

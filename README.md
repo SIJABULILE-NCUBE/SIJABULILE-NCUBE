@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sijabulile Ncube  
 💻 From Credit Scores to Code Lines | Aspiring Software Developer with a Banker’s Mindset  
 
+![200](https://github.com/user-attachments/assets/ddedfdc6-b723-4394-9878-5ff64392d535)
+
 ---
 
 ## 🔗 🌟 About Me  

@@ -1,77 +1,88 @@
 # 👋 Hi, I'm Sijabulile Ncube  
-
-💻 **From Credit Scores to Code Lines | Aspiring Software Developer with a Banker’s Mindset**
-
-
-   ![200](https://github.com/user-attachments/assets/2a378de0-b38a-4640-8101-8106a88bc968)
-
+💻 From Credit Scores to Code Lines | Aspiring Software Developer with a Banker’s Mindset  
 
 ---
 
-### 🌟 About Me 
+## 🔗 🌟 About Me  
+I’m a **Credit Specialist** transitioning into the world of Software Development.  
+With a strong background in **financial markets, forensic and investigative auditing, and credit risk management**,  
+I’m passionate about building digital solutions that bridge the gap between **finance and technology**.  
 
-I’m a **Credit Specialist ** transitioning into the world of **Software Development**.  
-With a strong background in **financial markets**, **forensic and investigative auditing**, and **credit risk management**,  
-I’m passionate about building digital solutions that bridge the gap between **finance and technology**.
-
-Currently studying through **CodeSpace Academy**, where I’m mastering front-end development and modern web technologies.
+Currently studying through **CodeSpace Academy**, where I’m mastering **front-end development** and modern web technologies.
 
 ---
 
-### 🧠 Skills & Technologies  
-
-#### 💼 **Banking & Finance Expertise**
+## 🔗 💼 Banking & Finance Expertise  
 - Credit Risk Analysis & Management  
 - Financial Markets Knowledge  
 - Forensic & Investigative Auditing  
-- Regulatory Compliance (**RE5 Certified**)  
+- Regulatory Compliance (RE5 Certified)  
 - Analytical Decision-Making & Client Portfolio Oversight  
-- Strong Problem-Solving and Communication Skills  
-
-#### 💻 **Tech & Software Development**
-- **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-- **Tailwind CSS** ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-- **Responsive Web Design** ![Responsive](https://img.shields.io/badge/Responsive%20Design-000000?logo=responsive&logoColor=white)
-- **Git & GitHub** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- **VS Code** ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🎯 Current Focus  
-- Building a strong foundation in **software development** through CodeSpace  
-- Exploring how **tech can transform banking and financial literacy**  
-- Working on front-end projects to improve my **UI/UX** and **responsive design** skills  
+## 🔗 💻 Tech & Software Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,responsive,git,github,vscode,nodejs" />
+</p>
+
+---
+
+## 🔗 💬 Soft Skills  
+- Excellent Communication & Team Collaboration  
+- Strong Analytical & Problem-Solving Ability  
+- Time Management & Attention to Detail  
+- Adaptability & Continuous Learning Mindset  
+- Empathy and Client-Centric Thinking  
+
+---
+
+## 🔗 🎯 Current Focus  
+- Building a strong foundation in software development through **CodeSpace**  
+- Exploring how tech can transform **banking and financial literacy**  
+- Working on **front-end projects** to improve UI/UX and responsive design skills  
 - Preparing for **full-stack development**  
 
 ---
 
-### 🏆 Education & Certifications  
-🎓 **Qualification in Financial Markets** — *University of Johannesburg*  
-
-📜 **Regulatory Certificate (RE5)** — *Moonstone*  
-
-📜 **National Credit Act Licence (NCA card)** — *Expede* 
-
-🎓 **Qualification in Forensic & Investigative Auditing** — *UNISA* 
-
-🎓 **Qualification in Banking Services Advice** — *Milpark Education* 
-
-💻 **Software Development Bootcamp (in progress)** — *CodeSpace Academy*
+## 🔗 🏆 Education & Certifications  
+- 💻 **Software Development Bootcamp (In Progress)** — *CodeSpace Academy*  
+- 🎓 **Qualification in Financial Markets** — *University of Johannesburg*  
+- 📜 **Regulatory Certificate (RE5)** — *Moonstone*  
+- 📜 **National Credit Act Licence (NCA Card)** — *Expede*  
+- 🎓 **Qualification in Forensic & Investigative Auditing** — *UNISA*  
+- 🎓 **Qualification in Banking Services Advice** — *Milpark Education*  
 
 ---
 
-### 🌐 Let's Connect  
-📫 **Email:** [s.mabhena@gmail.com]  
+## 🔗 🧩 Projects  
+### 🐾 CodeSpace Pets  
+📍 *Repository:* [Module_06_SIJNCU25575_PTO2508_A_SIJABULILE-NCUBE_SDF03](https://github.com/SIJABULILE-NCUBE/Module_06_SIJNCU25575_PTO2508_A_SIJABULILE-NCUBE_SDF03)  
+💡 A fun Instagram-inspired project showcasing CSS layout and styling skills.
 
-🔗 **LinkedIn:**LinkedIn:** [linkedin.com/in/sijabulilemn](https://linkedin.com/in/sijabulilemn) 
-
-💻 **GitHub Portfolio:** [github.com/SIJABULILE-NCUBE](https://github.com/SIJABULILE-NCUBE) 
+### 🧱 CS Footer Project  
+📍 *Repository:* [Module_08_SIJNCU25575_PTO2508_A_SIJABULILE-NCUBE_SDF04](https://github.com/SIJABULILE-NCUBE/Module_08_SIJNCU25575_PTO2508_A_SIJABULILE-NCUBE_SDF04)  
+💡 Demonstrates responsive design techniques and clean UI structuring.
 
 ---
 
-### ⚡ Fun Fact  
-🌱 I find joy in connecting finance and tech — whether analyzing credit trends or designing a responsive web page, I love seeing logic and creativity work together.
+## 🔗 🌐 Let's Connect  
+📫 Email: s.mabhena@gmail.com  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/sijabulilemn)  
+💻 [**GitHub Portfolio**](https://github.com/SIJABULILE-NCUBE)
+
+---
+
+## 🔗 ⚡ Fun Facts  
+💡 I love connecting finance and tech — seeing logic and creativity work together inspires me.  
+🌍 I enjoy exploring how digital tools can empower African communities through financial literacy.
+
+---
+
+## 🔗 📊 GitHub Stats  
+![Sijabulile’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIJABULILE-NCUBE&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIJABULILE-NCUBE&layout=compact&theme=tokyonight)
+
 
 ---
 

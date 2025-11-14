@@ -25,7 +25,7 @@ Currently studying through **CodeSpace Academy**, where I’m mastering **front-
 
 ## 🔗 💻 Tech & Software Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,responsive,git,github,vscode,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,responsive design,git,github,vscode,nodejs" />
 </p>
 
 ---
